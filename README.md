@@ -1,5 +1,7 @@
 # PrestaShop
 automating testing of PrestaShop by Lv-413.SET 
+
+
 Tasks :
 - Search items (use textbox, button, etc.)
    Search Criteria,  choose category, sort by, show items
