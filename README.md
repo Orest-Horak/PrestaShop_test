@@ -1,4 +1,4 @@
-# PrestaShop_test
+# PrestaShop
 automating testing of PrestaShop by Lv-413.SET 
 Tasks :
 - Search items (use textbox, button, etc.)
