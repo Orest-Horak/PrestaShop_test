@@ -1,0 +1,5 @@
+Pages\SearchResultPage.class
+Data\TestRunner.class
+Pages\AHeadComponent.class
+Pages\SearchEmptyPage.class
+Tests\TestSearch.class
