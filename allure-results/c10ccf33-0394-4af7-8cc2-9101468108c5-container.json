@@ -1,0 +1,1 @@
+{"uuid":"c10ccf33-0394-4af7-8cc2-9101468108c5","name":"Currency","children":["15de7b5b-ab0e-44c4-8cbd-7efce0e88211"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1564397224919,"stop":1564397230105}],"afters":[],"links":[],"start":1564397224888,"stop":1564397239397}

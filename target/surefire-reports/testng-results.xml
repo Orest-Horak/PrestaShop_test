@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-07-25T17:07:11Z" name="Command line suite" finished-at="2019-07-25T17:07:30Z" duration-ms="18443">
+    <groups>
+    </groups>
+    <test started-at="2019-07-25T17:07:11Z" name="Command line test" finished-at="2019-07-25T17:07:30Z" duration-ms="18443">
+      <class name="CurrencyTest">
+        <test-method is-config="true" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:CurrencyTest@376b4233]" started-at="2019-07-25T20:07:11Z" name="beforeClass" finished-at="2019-07-25T20:07:16Z" duration-ms="4896" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@674658f7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:CurrencyTest@376b4233]" started-at="2019-07-25T20:07:16Z" name="beforeMethod" finished-at="2019-07-25T20:07:19Z" duration-ms="3011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkCurrency()[pri:0, instance:CurrencyTest@376b4233]" started-at="2019-07-25T20:07:19Z" name="checkCurrency" finished-at="2019-07-25T20:07:23Z" duration-ms="3914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCurrency -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:CurrencyTest@376b4233]" started-at="2019-07-25T20:07:23Z" name="afterMethod" finished-at="2019-07-25T20:07:23Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkCurrency status=SUCCESS method=CurrencyTest.checkCurrency()[pri:0, instance:CurrencyTest@376b4233] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:CurrencyTest@376b4233]" started-at="2019-07-25T20:07:23Z" name="beforeMethod" finished-at="2019-07-25T20:07:24Z" duration-ms="544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkCurrencyForOneElement()[pri:0, instance:CurrencyTest@376b4233]" started-at="2019-07-25T20:07:24Z" name="checkCurrencyForOneElement" finished-at="2019-07-25T20:07:30Z" duration-ms="6046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCurrencyForOneElement -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:CurrencyTest@376b4233]" started-at="2019-07-25T20:07:30Z" name="afterMethod" finished-at="2019-07-25T20:07:30Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkCurrencyForOneElement status=SUCCESS method=CurrencyTest.checkCurrencyForOneElement()[pri:0, instance:CurrencyTest@376b4233] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- CurrencyTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
